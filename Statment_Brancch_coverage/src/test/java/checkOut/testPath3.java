@@ -4,9 +4,9 @@ import org.junit.Test;
 
 
 public class testPath3 {
-	// path 1->2->4->6 
+	// path 1->2->5->9 
 			@Test
-			public void test1_forPath4() {
+			public void test1_forPath3() {
 				double cart = 3800.00;
 				int creditRating = 600;
 				statusClass.Status status = statusClass.Status.GOLD;

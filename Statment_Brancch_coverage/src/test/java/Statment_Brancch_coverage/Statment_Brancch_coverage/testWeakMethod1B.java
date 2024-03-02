@@ -2,9 +2,9 @@ package Statment_Brancch_coverage.Statment_Brancch_coverage;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
-
 public class testWeakMethod1B {
-/*	@Test
+	
+	@Test
 	public void test1b() {
 		int a = 4;
 		int b = 2;
@@ -20,7 +20,7 @@ public class testWeakMethod1B {
 		
 		WeakClass.WeakMethod1(a, b);
 
-	}*/
+	}
 
 	
 }

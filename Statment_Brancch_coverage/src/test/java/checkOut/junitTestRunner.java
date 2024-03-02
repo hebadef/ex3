@@ -1,10 +1,11 @@
 package checkOut;
 
 import org.junit.runner.JUnitCore;
+
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
 
-import Statment_Brancch_coverage.Statment_Brancch_coverage.TestSuite;
+import checkOut.TestSuite;
 
 public class junitTestRunner {
 	public static void main(String[] args) {

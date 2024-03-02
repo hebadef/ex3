@@ -4,7 +4,7 @@ import org.junit.Test;
 
 
 public class testPath5 {
-	// path 1->7->8->11->12
+	// path 1->3->6->11->14->21
 	@Test
 	public void test1_forPath5() {
 		double cart = 3000.00;
